@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">MapsDemo</string>
+    <string name="title_activity_maps">MapsActivity</string>
+    <string name="title_activity_fetch_current_location_in_android">FetchCurrentLocationInAndroid
+    </string>
+    <string name="permission_request">"Permission request "</string>
+    <string name="okay">Okay\n</string>
+</resources>
